@@ -1,1 +1,1 @@
-# sistemas-em-linguagem-c-e-c-
+# Aqui você vai encontrar, diversos sistemas e exercícios em C e C++
