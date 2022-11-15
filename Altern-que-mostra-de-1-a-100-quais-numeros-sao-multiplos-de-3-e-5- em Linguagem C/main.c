@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 /* 
-7- Faça um algoritmo que conte de 1 a 100 
-e a cada múltiplo de 3 e 5 simultaneamente 
-emita uma mensagem:  “Múltiplo de 3 e 5”.
+7- FaÃ§a um algoritmo que conte de 1 a 100 
+e a cada mÃºltiplo de 3 e 5 simultaneamente 
+emita uma mensagem:  â€œMÃºltiplo de 3 e 5â€.
 */
 
 int main(int argc, char *argv[]) {
